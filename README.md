@@ -32,7 +32,7 @@ N/A
 # Questions
   If you have any questions or suggestions about this project, please feel free to contact me:
 - GitHub: [@rodrigo0599](https://github.com/rodrigo0599)
-- Email: (rodrigo0599@hotmail.com)
+- Email: rodrigo0599@hotmail.com
 
   
   
