@@ -15,6 +15,9 @@ In the pursuit of developing this project, my goal was to craft a web applicatio
 2. Execute the command:  ```npm i ```
 3. Launch the application by running:  ```npm start ```
 
+Video tutorial
+![Here](https://drive.google.com/file/d/19RSM3YpZo4tmIwudGN8PWWlu5vnvIP9R/view?usp=drive_link)
+
 # Usage:
 The link of this project, access it via the Heroku URL provided:
 https://notestaker1-2086cc9ed05d.herokuapp.com/
