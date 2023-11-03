@@ -22,6 +22,20 @@ Video tutorial
 The link of this project, access it via the Heroku URL provided:
 https://notestaker1-2086cc9ed05d.herokuapp.com/
 
+1.When you open the website, you should see the main page.
+![Base Note Taker Site](./public/assets/images/main.png)
+
+2.After you click on "GET STARTED," you will be able to write your titles and notes.
+![Base Note Taker Site](./public/assets/images/1st.png)
+
+3.Click on the SAVE icon to save your notes.
+![Base Note Taker Site](./public/assets/images/note.png)
+
+4.Click on the + button to create as many notes as you want.
+![Base Note Taker Site](./public/assets/images/2nd.png)
+
+5.Click on the TRASH icon to delete your notes.
+![Base Note Taker Site](./public/assets/images/delete.png)
 
 # License:
  ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
